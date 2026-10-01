@@ -1,0 +1,201 @@
+feedback_id,customer_id,date,source,category,text,label
+id_1,5660,2025-06-17,chat,product,Amazing support team. Resolved my issue quickly. extra comments 0,positive
+id_2,6167,2025-02-18,chat,ui,The product stopped working after two days. Very frustrating. extra comments 1,negative
+id_3,9718,2024-11-19,chat,ui,The product is okay. Nothing special to mention. extra comments 2,neutral
+id_4,3654,2025-01-08,social,pricing,Delivery was delayed and the support didn't respond. extra comments 3,negative
+id_5,6526,2024-12-05,social,product,The product stopped working after two days. Very frustrating. extra comments 4,negative
+id_6,1957,2025-09-03,social,delivery,Delivery was delayed and the support didn't respond. extra comments 5,negative
+id_7,1132,2025-03-05,social,delivery,Amazing support team. Resolved my issue quickly. extra comments 6,positive
+id_8,1461,2025-07-06,social,pricing,Delivery was delayed and the support didn't respond. extra comments 7,negative
+id_9,1219,2025-07-17,chat,pricing,The product is okay. Nothing special to mention. extra comments 8,neutral
+id_10,9186,2025-03-09,chat,product,The product stopped working after two days. Very frustrating. extra comments 9,negative
+id_11,8101,2025-05-26,social,delivery,The product stopped working after two days. Very frustrating. extra comments 10,negative
+id_12,1004,2025-06-29,social,ui,The product is okay. Nothing special to mention. extra comments 11,neutral
+id_13,6097,2025-10-09,chat,delivery,Amazing support team. Resolved my issue quickly. extra comments 12,positive
+id_14,7239,2025-08-27,email,product,"Not satisfied, it stopped working after a week. extra comments 13",negative
+id_15,7549,2025-03-20,social,delivery,"Not satisfied, it stopped working after a week. extra comments 14",negative
+id_16,1485,2025-08-13,chat,delivery,"Not satisfied, it stopped working after a week. extra comments 15",negative
+id_17,8601,2025-09-17,chat,billing,The product is okay. Nothing special to mention. extra comments 16,neutral
+id_18,3939,2025-02-16,email,support,"Not satisfied, it stopped working after a week. extra comments 17",negative
+id_19,2868,2025-04-28,social,ui,Delivery was delayed and the support didn't respond. extra comments 18,negative
+id_20,6216,2025-10-07,chat,billing,The product is okay. Nothing special to mention. extra comments 19,neutral
+id_21,4941,2024-12-21,chat,pricing,Very satisfied with the service. The product works as expected. extra comments 20,positive
+id_22,1009,2024-11-14,email,product,Amazing support team. Resolved my issue quickly. extra comments 21,positive
+id_23,8834,2024-12-01,email,support,Very satisfied with the service. The product works as expected. extra comments 22,positive
+id_24,6717,2025-09-10,email,delivery,Very satisfied with the service. The product works as expected. extra comments 23,positive
+id_25,8184,2025-05-31,chat,ui,The product is okay. Nothing special to mention. extra comments 24,neutral
+id_26,7651,2024-12-29,social,product,Amazing support team. Resolved my issue quickly. extra comments 25,positive
+id_27,1416,2025-10-30,social,delivery,The product stopped working after two days. Very frustrating. extra comments 26,negative
+id_28,6777,2025-01-18,email,ui,Amazing support team. Resolved my issue quickly. extra comments 27,positive
+id_29,4579,2025-02-15,email,pricing,Amazing support team. Resolved my issue quickly. extra comments 28,positive
+id_30,9733,2025-06-30,social,delivery,Amazing support team. Resolved my issue quickly. extra comments 29,positive
+id_31,2877,2025-10-14,social,product,Very satisfied with the service. The product works as expected. extra comments 30,positive
+id_32,1026,2025-04-08,email,delivery,Delivery was delayed and the support didn't respond. extra comments 31,negative
+id_33,3992,2025-05-06,social,ui,The product is okay. Nothing special to mention. extra comments 32,neutral
+id_34,6856,2025-07-24,email,ui,Delivery was delayed and the support didn't respond. extra comments 33,negative
+id_35,5137,2025-08-07,social,billing,Delivery was delayed and the support didn't respond. extra comments 34,negative
+id_36,4998,2025-07-31,social,ui,Amazing support team. Resolved my issue quickly. extra comments 35,positive
+id_37,3662,2025-05-31,social,delivery,Amazing support team. Resolved my issue quickly. extra comments 36,positive
+id_38,4009,2025-02-15,chat,support,Delivery was delayed and the support didn't respond. extra comments 37,negative
+id_39,8925,2025-01-26,email,product,"Not satisfied, it stopped working after a week. extra comments 38",negative
+id_40,5374,2025-03-06,email,pricing,"Not satisfied, it stopped working after a week. extra comments 39",negative
+id_41,4142,2025-01-13,chat,delivery,The product stopped working after two days. Very frustrating. extra comments 40,negative
+id_42,3641,2025-08-17,chat,support,"Not satisfied, it stopped working after a week. extra comments 41",negative
+id_43,2525,2025-08-22,email,pricing,"Not satisfied, it stopped working after a week. extra comments 42",negative
+id_44,1029,2025-07-26,email,ui,Amazing support team. Resolved my issue quickly. extra comments 43,positive
+id_45,8286,2025-04-15,email,support,Amazing support team. Resolved my issue quickly. extra comments 44,positive
+id_46,6064,2024-12-02,email,ui,"Not satisfied, it stopped working after a week. extra comments 45",negative
+id_47,2914,2025-06-03,chat,product,The product stopped working after two days. Very frustrating. extra comments 46,negative
+id_48,6539,2025-01-13,chat,delivery,Amazing support team. Resolved my issue quickly. extra comments 47,positive
+id_49,6475,2025-02-11,social,billing,Amazing support team. Resolved my issue quickly. extra comments 48,positive
+id_50,9498,2025-02-21,social,product,Amazing support team. Resolved my issue quickly. extra comments 49,positive
+id_51,3535,2025-01-02,social,ui,"Not satisfied, it stopped working after a week. extra comments 50",negative
+id_52,7030,2025-06-24,chat,billing,The product is okay. Nothing special to mention. extra comments 51,neutral
+id_53,6920,2025-07-16,chat,product,The product stopped working after two days. Very frustrating. extra comments 52,negative
+id_54,7923,2025-01-22,email,billing,"Not satisfied, it stopped working after a week. extra comments 53",negative
+id_55,9568,2024-12-25,email,pricing,Very satisfied with the service. The product works as expected. extra comments 54,positive
+id_56,4823,2025-06-28,email,billing,Delivery was delayed and the support didn't respond. extra comments 55,negative
+id_57,4699,2025-09-19,email,ui,Very satisfied with the service. The product works as expected. extra comments 56,positive
+id_58,8540,2025-06-21,social,delivery,Very satisfied with the service. The product works as expected. extra comments 57,positive
+id_59,3181,2025-05-17,email,product,Amazing support team. Resolved my issue quickly. extra comments 58,positive
+id_60,5437,2025-04-28,email,ui,The product stopped working after two days. Very frustrating. extra comments 59,negative
+id_61,8117,2025-03-27,chat,billing,Amazing support team. Resolved my issue quickly. extra comments 60,positive
+id_62,8994,2024-11-14,email,support,The product stopped working after two days. Very frustrating. extra comments 61,negative
+id_63,4688,2025-06-14,chat,support,Amazing support team. Resolved my issue quickly. extra comments 62,positive
+id_64,6769,2025-05-16,social,billing,Delivery was delayed and the support didn't respond. extra comments 63,negative
+id_65,5940,2025-09-12,email,pricing,The product stopped working after two days. Very frustrating. extra comments 64,negative
+id_66,6465,2025-09-15,social,billing,"Not satisfied, it stopped working after a week. extra comments 65",negative
+id_67,8405,2025-05-25,email,billing,"Not satisfied, it stopped working after a week. extra comments 66",negative
+id_68,3002,2025-03-04,social,billing,Very satisfied with the service. The product works as expected. extra comments 67,positive
+id_69,8773,2025-07-12,email,ui,The product stopped working after two days. Very frustrating. extra comments 68,negative
+id_70,9268,2025-10-02,email,delivery,The product stopped working after two days. Very frustrating. extra comments 69,negative
+id_71,3528,2024-11-22,chat,support,Very satisfied with the service. The product works as expected. extra comments 70,positive
+id_72,7650,2025-10-22,email,billing,Very satisfied with the service. The product works as expected. extra comments 71,positive
+id_73,5416,2025-03-26,chat,delivery,Amazing support team. Resolved my issue quickly. extra comments 72,positive
+id_74,1195,2025-04-29,social,pricing,The product stopped working after two days. Very frustrating. extra comments 73,negative
+id_75,4857,2025-05-03,chat,support,Very satisfied with the service. The product works as expected. extra comments 74,positive
+id_76,7989,2025-03-05,chat,product,"Not satisfied, it stopped working after a week. extra comments 75",negative
+id_77,2862,2025-08-15,chat,support,The product is okay. Nothing special to mention. extra comments 76,neutral
+id_78,9038,2025-08-30,email,product,Very satisfied with the service. The product works as expected. extra comments 77,positive
+id_79,9202,2025-06-22,social,billing,Delivery was delayed and the support didn't respond. extra comments 78,negative
+id_80,9301,2025-06-24,social,product,The product stopped working after two days. Very frustrating. extra comments 79,negative
+id_81,3441,2025-05-27,social,ui,Very satisfied with the service. The product works as expected. extra comments 80,positive
+id_82,3629,2025-02-14,social,support,The product is okay. Nothing special to mention. extra comments 81,neutral
+id_83,4406,2024-12-01,chat,ui,Amazing support team. Resolved my issue quickly. extra comments 82,positive
+id_84,3408,2025-08-26,email,support,Very satisfied with the service. The product works as expected. extra comments 83,positive
+id_85,1841,2025-09-26,social,delivery,Delivery was delayed and the support didn't respond. extra comments 84,negative
+id_86,2091,2025-04-23,social,pricing,Very satisfied with the service. The product works as expected. extra comments 85,positive
+id_87,5488,2025-07-19,chat,support,Very satisfied with the service. The product works as expected. extra comments 86,positive
+id_88,8088,2025-06-11,chat,product,The product is okay. Nothing special to mention. extra comments 87,neutral
+id_89,5208,2025-09-10,social,support,The product is okay. Nothing special to mention. extra comments 88,neutral
+id_90,5824,2025-08-06,chat,billing,The product stopped working after two days. Very frustrating. extra comments 89,negative
+id_91,6377,2024-11-19,social,product,Delivery was delayed and the support didn't respond. extra comments 90,negative
+id_92,9578,2025-02-27,email,pricing,"Not satisfied, it stopped working after a week. extra comments 91",negative
+id_93,4079,2025-05-25,social,delivery,Amazing support team. Resolved my issue quickly. extra comments 92,positive
+id_94,8950,2024-11-29,email,product,The product is okay. Nothing special to mention. extra comments 93,neutral
+id_95,7469,2025-08-27,social,delivery,The product is okay. Nothing special to mention. extra comments 94,neutral
+id_96,5709,2025-07-04,social,ui,The product is okay. Nothing special to mention. extra comments 95,neutral
+id_97,8440,2025-08-19,social,product,Amazing support team. Resolved my issue quickly. extra comments 96,positive
+id_98,7030,2025-07-14,social,delivery,Very satisfied with the service. The product works as expected. extra comments 97,positive
+id_99,7848,2025-08-05,chat,product,"Not satisfied, it stopped working after a week. extra comments 98",negative
+id_100,7677,2025-05-03,social,pricing,The product stopped working after two days. Very frustrating. extra comments 99,negative
+id_101,5923,2025-06-14,social,ui,The product is okay. Nothing special to mention. extra comments 100,neutral
+id_102,5842,2025-03-12,email,product,Very satisfied with the service. The product works as expected. extra comments 101,positive
+id_103,1243,2025-07-09,chat,product,Very satisfied with the service. The product works as expected. extra comments 102,positive
+id_104,7212,2025-09-12,email,pricing,The product stopped working after two days. Very frustrating. extra comments 103,negative
+id_105,1261,2025-05-02,email,billing,The product stopped working after two days. Very frustrating. extra comments 104,negative
+id_106,7493,2025-03-07,email,ui,The product stopped working after two days. Very frustrating. extra comments 105,negative
+id_107,9084,2025-01-03,social,billing,The product is okay. Nothing special to mention. extra comments 106,neutral
+id_108,6762,2025-02-15,chat,ui,Amazing support team. Resolved my issue quickly. extra comments 107,positive
+id_109,1034,2025-04-10,chat,billing,"Not satisfied, it stopped working after a week. extra comments 108",negative
+id_110,4185,2025-05-05,social,billing,The product stopped working after two days. Very frustrating. extra comments 109,negative
+id_111,7228,2025-03-09,social,pricing,Very satisfied with the service. The product works as expected. extra comments 110,positive
+id_112,6791,2025-09-10,chat,product,Very satisfied with the service. The product works as expected. extra comments 111,positive
+id_113,8037,2025-01-19,email,billing,The product is okay. Nothing special to mention. extra comments 112,neutral
+id_114,1780,2024-12-13,social,support,The product is okay. Nothing special to mention. extra comments 113,neutral
+id_115,2999,2025-06-24,social,ui,Very satisfied with the service. The product works as expected. extra comments 114,positive
+id_116,9985,2025-10-25,email,product,"Not satisfied, it stopped working after a week. extra comments 115",negative
+id_117,3658,2025-09-19,email,delivery,The product stopped working after two days. Very frustrating. extra comments 116,negative
+id_118,3066,2025-07-24,social,product,Amazing support team. Resolved my issue quickly. extra comments 117,positive
+id_119,2891,2025-03-21,social,billing,The product stopped working after two days. Very frustrating. extra comments 118,negative
+id_120,8813,2025-02-21,email,pricing,The product stopped working after two days. Very frustrating. extra comments 119,negative
+id_121,3397,2025-03-03,social,billing,Amazing support team. Resolved my issue quickly. extra comments 120,positive
+id_122,3414,2025-06-04,chat,ui,Very satisfied with the service. The product works as expected. extra comments 121,positive
+id_123,2049,2024-11-23,social,delivery,"Not satisfied, it stopped working after a week. extra comments 122",negative
+id_124,4563,2025-10-07,email,ui,"Not satisfied, it stopped working after a week. extra comments 123",negative
+id_125,8134,2024-11-16,chat,support,"Not satisfied, it stopped working after a week. extra comments 124",negative
+id_126,6398,2024-11-20,email,billing,Very satisfied with the service. The product works as expected. extra comments 125,positive
+id_127,8323,2025-08-15,chat,pricing,Amazing support team. Resolved my issue quickly. extra comments 126,positive
+id_128,3098,2025-10-18,social,ui,The product stopped working after two days. Very frustrating. extra comments 127,negative
+id_129,5670,2025-05-06,social,support,Delivery was delayed and the support didn't respond. extra comments 128,negative
+id_130,9454,2024-12-09,social,pricing,"Not satisfied, it stopped working after a week. extra comments 129",negative
+id_131,2236,2025-04-21,chat,support,Amazing support team. Resolved my issue quickly. extra comments 130,positive
+id_132,8228,2025-05-15,social,product,The product is okay. Nothing special to mention. extra comments 131,neutral
+id_133,5857,2024-12-04,social,pricing,Amazing support team. Resolved my issue quickly. extra comments 132,positive
+id_134,5850,2025-07-03,social,product,Amazing support team. Resolved my issue quickly. extra comments 133,positive
+id_135,6614,2025-06-02,email,pricing,Very satisfied with the service. The product works as expected. extra comments 134,positive
+id_136,5496,2024-11-24,email,pricing,Very satisfied with the service. The product works as expected. extra comments 135,positive
+id_137,1201,2025-10-10,social,support,Amazing support team. Resolved my issue quickly. extra comments 136,positive
+id_138,8225,2025-08-17,email,ui,"Not satisfied, it stopped working after a week. extra comments 137",negative
+id_139,7472,2025-05-13,social,ui,Very satisfied with the service. The product works as expected. extra comments 138,positive
+id_140,1899,2024-11-19,chat,pricing,Amazing support team. Resolved my issue quickly. extra comments 139,positive
+id_141,6788,2025-09-23,email,pricing,"Not satisfied, it stopped working after a week. extra comments 140",negative
+id_142,5649,2024-11-21,social,delivery,"Not satisfied, it stopped working after a week. extra comments 141",negative
+id_143,7023,2025-01-09,chat,product,The product stopped working after two days. Very frustrating. extra comments 142,negative
+id_144,6641,2025-08-27,chat,billing,The product is okay. Nothing special to mention. extra comments 143,neutral
+id_145,5230,2025-07-12,chat,delivery,"Not satisfied, it stopped working after a week. extra comments 144",negative
+id_146,6548,2025-04-06,social,delivery,The product is okay. Nothing special to mention. extra comments 145,neutral
+id_147,5031,2025-10-09,email,ui,The product is okay. Nothing special to mention. extra comments 146,neutral
+id_148,4380,2025-05-14,social,delivery,The product stopped working after two days. Very frustrating. extra comments 147,negative
+id_149,8681,2025-01-31,chat,ui,The product is okay. Nothing special to mention. extra comments 148,neutral
+id_150,6706,2025-01-12,chat,support,The product is okay. Nothing special to mention. extra comments 149,neutral
+id_151,1688,2025-08-26,email,product,Delivery was delayed and the support didn't respond. extra comments 150,negative
+id_152,6791,2024-12-04,chat,support,The product is okay. Nothing special to mention. extra comments 151,neutral
+id_153,1349,2025-09-03,email,product,Amazing support team. Resolved my issue quickly. extra comments 152,positive
+id_154,4717,2025-05-08,chat,billing,The product stopped working after two days. Very frustrating. extra comments 153,negative
+id_155,1651,2025-10-06,chat,pricing,The product stopped working after two days. Very frustrating. extra comments 154,negative
+id_156,1884,2024-11-30,email,support,Delivery was delayed and the support didn't respond. extra comments 155,negative
+id_157,1376,2025-05-21,chat,delivery,Very satisfied with the service. The product works as expected. extra comments 156,positive
+id_158,7181,2025-09-12,email,ui,Amazing support team. Resolved my issue quickly. extra comments 157,positive
+id_159,5653,2025-10-20,chat,billing,The product is okay. Nothing special to mention. extra comments 158,neutral
+id_160,6492,2025-02-24,social,billing,The product stopped working after two days. Very frustrating. extra comments 159,negative
+id_161,1047,2025-10-01,social,delivery,"Not satisfied, it stopped working after a week. extra comments 160",negative
+id_162,5742,2025-01-23,email,product,Amazing support team. Resolved my issue quickly. extra comments 161,positive
+id_163,3072,2025-08-21,chat,ui,The product is okay. Nothing special to mention. extra comments 162,neutral
+id_164,3800,2025-01-22,chat,ui,Very satisfied with the service. The product works as expected. extra comments 163,positive
+id_165,4215,2025-04-15,social,pricing,Very satisfied with the service. The product works as expected. extra comments 164,positive
+id_166,6728,2025-07-20,email,pricing,"Not satisfied, it stopped working after a week. extra comments 165",negative
+id_167,8339,2025-07-30,chat,product,Amazing support team. Resolved my issue quickly. extra comments 166,positive
+id_168,8969,2025-07-08,email,pricing,The product stopped working after two days. Very frustrating. extra comments 167,negative
+id_169,9635,2025-02-02,social,delivery,Delivery was delayed and the support didn't respond. extra comments 168,negative
+id_170,2093,2025-03-06,chat,ui,The product is okay. Nothing special to mention. extra comments 169,neutral
+id_171,8284,2025-10-21,email,product,Delivery was delayed and the support didn't respond. extra comments 170,negative
+id_172,4298,2025-09-19,social,delivery,Very satisfied with the service. The product works as expected. extra comments 171,positive
+id_173,5195,2025-06-12,email,delivery,Delivery was delayed and the support didn't respond. extra comments 172,negative
+id_174,5040,2025-08-28,chat,pricing,The product stopped working after two days. Very frustrating. extra comments 173,negative
+id_175,2524,2025-05-08,email,pricing,Very satisfied with the service. The product works as expected. extra comments 174,positive
+id_176,4679,2025-03-15,email,pricing,"Not satisfied, it stopped working after a week. extra comments 175",negative
+id_177,7390,2025-07-03,chat,billing,The product stopped working after two days. Very frustrating. extra comments 176,negative
+id_178,4241,2025-07-14,chat,support,Delivery was delayed and the support didn't respond. extra comments 177,negative
+id_179,5711,2025-03-03,social,delivery,Delivery was delayed and the support didn't respond. extra comments 178,negative
+id_180,7171,2025-04-03,chat,delivery,The product is okay. Nothing special to mention. extra comments 179,neutral
+id_181,5813,2025-03-03,chat,pricing,Very satisfied with the service. The product works as expected. extra comments 180,positive
+id_182,9963,2025-06-15,social,pricing,Very satisfied with the service. The product works as expected. extra comments 181,positive
+id_183,5687,2024-12-24,social,product,"Not satisfied, it stopped working after a week. extra comments 182",negative
+id_184,7471,2025-10-16,social,billing,Very satisfied with the service. The product works as expected. extra comments 183,positive
+id_185,7919,2025-10-04,email,product,Delivery was delayed and the support didn't respond. extra comments 184,negative
+id_186,7711,2024-11-21,social,delivery,The product is okay. Nothing special to mention. extra comments 185,neutral
+id_187,5311,2025-09-20,chat,support,The product stopped working after two days. Very frustrating. extra comments 186,negative
+id_188,3538,2025-07-03,social,ui,The product is okay. Nothing special to mention. extra comments 187,neutral
+id_189,5899,2025-10-09,social,ui,Delivery was delayed and the support didn't respond. extra comments 188,negative
+id_190,9695,2024-12-07,email,pricing,The product stopped working after two days. Very frustrating. extra comments 189,negative
+id_191,1311,2025-03-03,social,support,The product is okay. Nothing special to mention. extra comments 190,neutral
+id_192,3103,2025-03-12,social,pricing,Delivery was delayed and the support didn't respond. extra comments 191,negative
+id_193,4984,2025-10-09,chat,delivery,Amazing support team. Resolved my issue quickly. extra comments 192,positive
+id_194,5927,2024-12-17,email,billing,Delivery was delayed and the support didn't respond. extra comments 193,negative
+id_195,6668,2025-03-24,social,billing,"Not satisfied, it stopped working after a week. extra comments 194",negative
+id_196,2613,2025-01-29,chat,billing,The product is okay. Nothing special to mention. extra comments 195,neutral
+id_197,8065,2024-11-29,chat,delivery,"Not satisfied, it stopped working after a week. extra comments 196",negative
+id_198,5970,2025-06-23,social,billing,Delivery was delayed and the support didn't respond. extra comments 197,negative
+id_199,1376,2025-02-07,email,product,Very satisfied with the service. The product works as expected. extra comments 198,positive
+id_200,3569,2025-03-22,social,billing,"Not satisfied, it stopped working after a week. extra comments 199",negative
